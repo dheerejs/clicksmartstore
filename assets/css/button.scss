@@ -1,0 +1,13 @@
+.view-all-btn {
+  background: #ffffff;
+  color: $theme-color;
+  border: 1px solid $theme-color;
+  font-size: 0.85rem;
+  padding: 8px 35px 8px 35px;
+  font-weight: 600;
+
+  &:hover {
+    background: $theme-color;
+    color: #ffffff;
+  }
+}

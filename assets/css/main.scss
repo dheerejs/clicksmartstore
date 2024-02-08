@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@200;300;400;500;600;700;800;900&display=swap");
+
+$theme-font: "Mulish", sans-serif;
+$theme-color: #0066b3;
+$theme-font-color: #444444;
+
+@import "header.scss";
+@import "button.scss";
+@import "navbar.scss";
+@import "footer.scss";
+@import "custom.scss";
